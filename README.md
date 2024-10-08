@@ -136,7 +136,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 İbrahim Aybora Tozun</p>
+        <p>İbrahim Aybora Tozun</p>
     </footer>
 </body>
 </html>
